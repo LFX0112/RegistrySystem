@@ -1,4 +1,4 @@
-<h1>Sistema de Registro</h1>
+<h1>Registration System</h1>
 <p>Hello, World!</p>
 
-- Estado del Proyecto: En construcción.
+- Project Status: Under construction.
