@@ -7,3 +7,4 @@
 
 To emulate the system, you must put:
 ```npm install react```
+Emulate sync with LocalHost
