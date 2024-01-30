@@ -3,6 +3,7 @@
 
 - Project Status: Under construction.
 - Added app.js file.
+- Added index.html file.
 
 To emulate the system, you must put:
 ```npm install react```
